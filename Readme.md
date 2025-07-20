@@ -24,7 +24,7 @@
 - 🔐 **Offline Cold Wallet** – All signing is done locally, never exposing private keys  
 - 📲 **Two-button interface** for secure confirmations  
 - 📺 **OLED display** to verify transactions  
-- 🧩 **Open-source firmware** using Trezor stack  
+- 🧩 **Open-source firmware** using Trezor stack  [PiTrezor Original Link](https://www.pitrezor.com/2018/02/pitrezor-homemade-trezor-bitcoin-wallet.html)  
 - 💾 **MicroSD-based OS**, easy to flash  
 - 🔌 Micro USB powered, ultra-portable  
 - 🛠️ Custom-designed PCB for compact layout
