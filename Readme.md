@@ -7,7 +7,11 @@
   <img src="Image/pi3dfront.png" alt="PCB Front" width="300"/>
 </p>
 
-## 🧠 Project Overview
+## 🧠 Project Original Firmware Idea 
+[PiTrezor Original Link](https://www.pitrezor.com/2018/02/pitrezor-homemade-trezor-bitcoin-wallet.html)  
+
+
+## 🧠 Project PCB Overview
 
 **PiTrezor** is a DIY open-source hardware wallet built using a **Raspberry Pi Zero**, enabling secure offline storage and transaction of cryptocurrencies like Bitcoin. It features a physical two-button interface, an OLED display for verification, and runs **Trezor-compatible firmware**.
 
