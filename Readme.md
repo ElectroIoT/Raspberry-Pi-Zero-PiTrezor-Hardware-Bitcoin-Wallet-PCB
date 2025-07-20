@@ -3,8 +3,8 @@
 ![PiTrezor Banner](Image/demo.png) <!-- Replace with actual image path -->
 
 <p align="center">
-  <img src="Image/pi3dback.png" alt="PCB BACK" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Image/pi3dfront.png" alt="PCB Front" width="100"/>
+  <img src="Image/pi3dback.png" alt="PCB BACK" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Image/pi3dfront.png" alt="PCB Front" width="400"/>
 </p>
 
 ## 🧠 Project Overview
